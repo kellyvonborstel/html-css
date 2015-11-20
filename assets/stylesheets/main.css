@@ -225,64 +225,6 @@ Buttons
 
 /*
 =====================================
-Home
-=====================================
-*/
-
-.hero {
-  color: #fff;
-  line-height: 44px;
-  padding: 22px 80px 66px 80px;
-  text-align: center;
-}
-
-.hero h2 {
-  font-size: 36px;
-}
-
-.hero p {
-  font-size: 24px;
-  font-weight: 100;
-}
-
-.teaser a:hover h3 {
-  color: #a9b2b9;
-}
-
-.teaser img {
-  border-radius: 5px;
-  display: block;
-  margin-bottom: 22px;
-  max-width: 100%;
-}
-
-/*
-=====================================
-Speakers
-=====================================
-*/
-
-.speaker-info {
-  border: 1px solid #dfe2e5;
-  border-radius: 5px;
-  margin-top: 88px;
-  padding-bottom: 22px;
-  text-align: center;
-}
-
-.speaker-info img {
-  border-radius: 50%;
-  height: 130px;
-  margin: -66px 0 22px 0;
-  vertical-align: top;
-}
-
-.speaker {
-  margin-bottom: 44px;
-}
-
-/*
-=====================================
 Clearfix
 =====================================
 */
@@ -393,7 +335,81 @@ Primary footer
   padding-top: 44px;
 }
 
+/*
+=====================================
+Home
+=====================================
+*/
 
+.hero {
+  color: #fff;
+  line-height: 44px;
+  padding: 22px 80px 66px 80px;
+  text-align: center;
+}
+
+.hero h2 {
+  font-size: 36px;
+}
+
+.hero p {
+  font-size: 24px;
+  font-weight: 100;
+}
+
+.teaser a:hover h3 {
+  color: #a9b2b9;
+}
+
+.teaser img {
+  border-radius: 5px;
+  display: block;
+  margin-bottom: 22px;
+  max-width: 100%;
+}
+
+/*
+=====================================
+Speakers
+=====================================
+*/
+
+.speaker-info {
+  border: 1px solid #dfe2e5;
+  border-radius: 5px;
+  margin-top: 88px;
+  padding-bottom: 22px;
+  text-align: center;
+}
+
+.speaker-info img {
+  border-radius: 50%;
+  height: 130px;
+  margin: -66px 0 22px 0;
+  vertical-align: top;
+}
+
+.speaker {
+  margin-bottom: 44px;
+}
+
+/*
+=====================================
+Venue
+=====================================
+*/
+
+.venue-theatre {
+  margin-bottom: 66px;
+}
+
+.venue-hotel {
+  margin-bottom: 22px;
+}
+
+.venue-map {
+  height: 264px;
+}
 
 
 
